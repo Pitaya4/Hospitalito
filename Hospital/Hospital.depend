@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1431546448 source:c:\users\administrador\desktop\sp\proyecto final\hospital\expediente.cpp
+	"Expediente.h"
+	<iostream>
+
+1431546448 c:\users\administrador\desktop\sp\proyecto final\hospital\expediente.h
+
+1431546448 source:c:\users\administrador\desktop\sp\proyecto final\hospital\medico.cpp
+	"Medico.h"
+	<iostream>
+
+1431546448 c:\users\administrador\desktop\sp\proyecto final\hospital\medico.h
+
+1431546448 source:c:\users\administrador\desktop\sp\proyecto final\hospital\paciente.cpp
+	"Paciente.h"
+	<iostream>
+
+1431546448 c:\users\administrador\desktop\sp\proyecto final\hospital\paciente.h
+
+1431546615 source:c:\users\administrador\desktop\sp\proyecto final\hospital\main.cpp
+	<iostream>
+	<string.h>
+	<Paciente.h>
+	<Medico.h>
+	<Expediente.h>
+
